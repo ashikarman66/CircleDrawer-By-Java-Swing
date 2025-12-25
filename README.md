@@ -28,10 +28,6 @@ Circle Drawer is a simple Java Swing–based desktop application that demonstrat
 - Custom drawing using Graphics class  
 - Real-time UI updates based on user interaction  
 
----
-
----
-
 ## How to Run the Project
 
 1. Install Java (JDK 8 or higher) on your system  
