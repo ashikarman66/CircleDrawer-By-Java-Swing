@@ -4,8 +4,6 @@
 
 Circle Drawer is a simple Java Swing–based desktop application that demonstrates the core concepts of GUI development, event handling, and custom drawing in Java. The application allows users to draw filled circles at random positions inside a drawing panel and clear all drawings using interactive buttons.
 
----
-
 ## Objectives
 
 - To understand Java Swing components such as JFrame, JPanel, and JButton  
@@ -14,8 +12,6 @@ Circle Drawer is a simple Java Swing–based desktop application that demonstrat
 - To dynamically update the graphical interface using repaint()  
 - To develop a basic interactive desktop application in Java  
 
----
-
 ## Technologies Used
 
 - Programming Language: Java  
@@ -23,7 +19,6 @@ Circle Drawer is a simple Java Swing–based desktop application that demonstrat
 - Java Version: JDK 8 or higher  
 - IDE: IntelliJ IDEA / Eclipse / NetBeans  
 
----
 
 ## Project Features
 
@@ -45,7 +40,6 @@ Circle Drawer is a simple Java Swing–based desktop application that demonstrat
 4. Compile and run the `CircleDrawer.java` file  
 5. The application window will appear  
 
----
 
 ## Program Behavior / Output
 
@@ -54,7 +48,6 @@ Circle Drawer is a simple Java Swing–based desktop application that demonstrat
 - Multiple clicks result in multiple circles  
 - Clicking **Clear** removes all circles and restores a blank panel  
 
----
 
 ## Analysis and Discussion
 
@@ -64,7 +57,6 @@ Circle Drawer is a simple Java Swing–based desktop application that demonstrat
 - An ArrayList is used to manage multiple circle objects efficiently  
 - The repaint() method ensures smooth and immediate graphical updates  
 
----
 
 ## Learning Outcomes
 
@@ -74,13 +66,11 @@ Circle Drawer is a simple Java Swing–based desktop application that demonstrat
 - Learned how data structures interact with graphical components  
 - Improved overall Java programming skills  
 
----
 
 ## Conclusion
 
 This project demonstrates a basic yet effective Java Swing application that combines GUI development, event handling, and custom drawing. The Circle Drawer application provides a practical understanding of how user interactions can dynamically control graphical output, making it a strong foundation for learning Java GUI programming.
 
----
 
 ## Author
 
